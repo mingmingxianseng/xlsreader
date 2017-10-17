@@ -1,0 +1,22 @@
+{
+    "name": "mmxs/xlsreader",
+    "version": "1.0.0",
+    "description": "xlsreader",
+    "authors": [
+        {
+            "name": "chenmingming",
+            "email": "chenmingming@axhome.com.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mmxs\\": "src"
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.4"
+    }
+}
